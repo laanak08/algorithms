@@ -1,6 +1,6 @@
 def main():
     A,B,N = raw_input().split(" ")
-    print T(A,B,N)
+    print T(int(A),int(B),int(N))
     
 def T(A,B,N):
     if N == A:
