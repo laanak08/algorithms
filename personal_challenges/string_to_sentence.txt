@@ -1,0 +1,8 @@
+Personal Dynamic Programming Challenge
+Split the following sentences into words.
+Consider:
+    Is any sub-sequence in the a word in the unix dictionary?
+1. Characterizethestructureofanoptimalsolution.
+2. Recursivelydefinethevalueofanoptimalsolution.
+3. Computethevalueofanoptimalsolution,typicallyinabottom-upfashion.
+4. Constructanoptimalsolutionfromcomputedinformation.
