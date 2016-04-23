@@ -3,9 +3,9 @@ def main():
     print T(int(A),int(B),int(N))
     
 def T(A,B,N):
-    if N == A:
+    if N == 1:
         return A
-    elif N == B:
+    elif N == 2:
         return B
     else:
         return T(A,B,(N-1)) + T(A,B,(N-2))
