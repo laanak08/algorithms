@@ -1,4 +1,4 @@
-def main(work_func):
+def main():
     A,B,N = raw_input().split(" ")
     print T(A,B,N)
     
