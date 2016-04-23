@@ -8,5 +8,5 @@ def T(A,B,N):
     elif N == 2:
         return B
     else:
-        return T(A,B,(N-1)) + T(A,B,(N-2))
+        return ( T(A,B,(N-1)) ** 2 ) + T(A,B,(N-2))
 main()
