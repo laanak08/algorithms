@@ -1,7 +1,7 @@
 Personal Dynamic Programming Challenge
 Split the following sentences into words.
 Consider:
-    Is any sub-sequence in the a word in the unix dictionary?
+    Is any sub-sequence in the a word in the unix dictionary? (/usr/share/dict/words)
 1. Characterizethestructureofanoptimalsolution.
 2. Recursivelydefinethevalueofanoptimalsolution.
 3. Computethevalueofanoptimalsolution,typicallyinabottom-upfashion.
